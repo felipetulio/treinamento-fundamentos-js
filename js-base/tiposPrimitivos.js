@@ -13,7 +13,8 @@ const op = primeiroNumero + segundoNumero
 console.log("o resultado da operação é " + op.toString())
 
 // segunda forma de casting para impressão de resultados no console. Método alternativo do
-// JS chamado de interpolação. É mais prático para formar sentenças de saída com diversas
+// JS chamado de Template String. Nesse método é realizada uma interpolação de texto e variáveis.
+// É mais prático para formar sentenças de saída com diversas
 // variáveis
 console.log(`O resultado da operação é ${op}`)
 
