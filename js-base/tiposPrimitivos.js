@@ -23,3 +23,19 @@ const texto2 = 'Olá, mundo!';
 
 console.log(texto1)
 console.log(texto2)
+
+
+const numBooleano1 = true
+const numBooleano2 = true
+
+// Comparação com 2 simbolos de igual (==) -> comparação com conversão implícita
+// de tipos. Logo, compara apenas os valores
+if(numBooleano1 == numBooleano2){
+    console.log(`A variável numBooleano1 é ${numBooleano1}`)
+} 
+
+// Comparação com 3 simbolos de igual (===) -> comparação sem conversão implícita 
+// de tipos. Logo, compara os valores e o tipo das variáveis
+if(numBooleano1 === numBooleano2) {
+    console.log(`A variável numBooleano2 é ${numBooleano2}`)
+}
