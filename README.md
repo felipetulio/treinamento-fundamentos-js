@@ -28,4 +28,8 @@ Antes de qualquer coisa, é importante ressaltar que este processo foi realizado
 
 ### Pasta js-arrays
 
-É a pasta com códigos simples para manipulação de arrays em JS.
+Esta pasta contém códigos simples para manipulação de arrays em JS.
+
+### Pasta js-objetos
+
+Esta pasta contém códigos para criação e manipulação de objetos literais, além dos objetos na forma tradicional, chamada de nomenclatura de classe. Basicamente, objetos em JS podem receber variáveis primitivas, arrays e outros objetos. Além disso, também é possível usar funções, que seriam equivalentes aos métodos ensinados em POO. Entretanto, trabalhar com objetos em JS é mais "livre" do que em linguagens fortemente e estaticamente tipadas.
